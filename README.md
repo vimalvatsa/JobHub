@@ -29,7 +29,7 @@ Node.js for seamless server-side JavaScript.
 
 Getting Started:
 1. Clone the Repository:
-   ![image](https://github.com/vimalvatsa/JobHub/assets/92334116/be23ba7c-c022-4090-b400-932dd60f1c3e)
+   ![image](https://github.com/vimalvatsa/JobHub/assets/92334116/2b6ea7ca-7f16-4130-b9da-ae82f6348924)
 
 2. Install Dependencies:
    ![image](https://github.com/vimalvatsa/JobHub/assets/92334116/fe98017d-157e-4585-bcb7-8683e43bd16f)
